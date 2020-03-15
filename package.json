@@ -17,7 +17,7 @@
     "homepage": "https://github.com/atorov/trd-alfa-ml5-kmeans#readme",
     "devDependencies": {
         "eslint": "^6.7.2",
-        "eslint-config-airbnb-base": "^14.0.0",
+        "eslint-config-airbnb-base": "^14.1.0",
         "eslint-plugin-import": "^2.18.2",
         "reload": "^3.0.3"
     }
